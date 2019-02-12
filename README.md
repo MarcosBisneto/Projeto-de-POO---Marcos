@@ -35,5 +35,6 @@
  - Disciplina;
  
  ## DIAGRAMA DE CLASSE:
+ ![diagrama](https://user-images.githubusercontent.com/44373296/52674212-044f6000-2f0a-11e9-8a08-41fe40a1ea2a.png)
  
 
